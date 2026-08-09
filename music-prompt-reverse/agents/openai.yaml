@@ -1,0 +1,4 @@
+interface:
+  display_name: Music Prompt Reverse
+  short_description: Reverse music into precise Suno prompts
+  default_prompt: Reverse-engineer the referenced audio into one evidence-first English Suno prompt under 850 characters without creator names.
